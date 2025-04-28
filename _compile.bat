@@ -31,7 +31,7 @@ if not exist bin (
 )
 
 REM Define the JAR file name and manifest file
-set JAR_FILE=audio-encoder.jar
+set JAR_FILE=tp-final-codage.jar
 set MANIFEST_FILE=manifest.txt
 
 REM Create a manifest file with Main-Class attribute 
