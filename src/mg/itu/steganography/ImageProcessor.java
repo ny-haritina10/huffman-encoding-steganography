@@ -7,6 +7,7 @@ import java.io.IOException;
 import javax.imageio.ImageIO;
 
 public class ImageProcessor {
+    
     private BufferedImage image;
     private int width;
     private int height;
