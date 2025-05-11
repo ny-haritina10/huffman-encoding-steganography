@@ -1,4 +1,4 @@
-package mg.itu.steganography;
+package mg.itu.steganography.image;
 
 import java.awt.image.BufferedImage;
 import java.io.File;

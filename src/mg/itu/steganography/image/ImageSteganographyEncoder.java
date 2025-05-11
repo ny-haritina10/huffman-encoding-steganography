@@ -1,10 +1,12 @@
-package mg.itu.steganography;
+package mg.itu.steganography.image;
 
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 
 import javax.imageio.ImageIO;
+
+import mg.itu.steganography.sequence.RecurrenceSequence;
 
 public class ImageSteganographyEncoder {
 

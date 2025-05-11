@@ -1,4 +1,4 @@
-package mg.itu.steganography;
+package mg.itu.steganography.sequence;
 
 import java.util.function.Function;
 

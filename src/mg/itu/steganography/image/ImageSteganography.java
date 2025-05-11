@@ -1,4 +1,6 @@
-package mg.itu.steganography;
+package mg.itu.steganography.image;
+
+import mg.itu.steganography.sequence.RecurrenceSequence;
 
 public class ImageSteganography {
 

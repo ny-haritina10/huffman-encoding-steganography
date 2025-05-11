@@ -2,10 +2,10 @@ package mg.itu.test;
 
 import java.util.Arrays;
 
-import mg.itu.steganography.ImageProcessor;
-import mg.itu.steganography.ImageSteganography;
-import mg.itu.steganography.ImageSteganographyEncoder;
-import mg.itu.steganography.RecurrenceSequence;
+import mg.itu.steganography.image.ImageProcessor;
+import mg.itu.steganography.image.ImageSteganography;
+import mg.itu.steganography.image.ImageSteganographyEncoder;
+import mg.itu.steganography.sequence.RecurrenceSequence;
 
 public class TestSteganography {
     
