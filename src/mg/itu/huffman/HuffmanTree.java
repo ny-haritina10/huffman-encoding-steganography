@@ -5,7 +5,9 @@ import java.util.Map;
 import java.util.PriorityQueue;
 
 public class HuffmanTree {
+
     private class Node implements Comparable<Node> {
+        
         char character;
         int frequency;
         Node left, right;

@@ -1,2 +1,2 @@
 #!/bin/bash
-java -cp bin mg.itu.test.TestAudioSteganography
+java -cp bin mg.itu.test.TestHuffman

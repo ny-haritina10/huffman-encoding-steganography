@@ -19,6 +19,7 @@ public class AudioSteganography {
         if (messageLength < 0) {
             throw new IllegalArgumentException("message length must be non-negative");
         }
+        
         int[] positions = sequence.generateSequence(messageLength);
         StringBuilder message = new StringBuilder();
         System.out.println("Decoding: Max position = " + processor.getMaxPosition());
